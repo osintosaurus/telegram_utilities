@@ -4,7 +4,7 @@
 
 Some scripts for telegram.
 
-- <b>bouriket.py</b> : simply scan all the public users of the conversations present in the Telegram account and place them in a single CSV ready to be analyzed for cross-checking. Watch out, you're in the dataset! Could be improved by scrapping all conversations looking for users directly in messages.
+- <b>get_users.py</b> : simply scan all the public users of the conversations present in the Telegram account and place them in a single CSV ready to be analyzed for cross-checking. Watch out, you're in the dataset! Could be improved by scrapping all conversations looking for users directly in messages.
 
 ## Instructions
 
